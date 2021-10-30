@@ -275,7 +275,4 @@ sections:
   - title: My Logo section
     logos: []
     type: LogoSection
-  - title: lorem-ipsum
-    logos: []
-    type: LogoSection
 ---
