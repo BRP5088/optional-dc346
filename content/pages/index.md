@@ -304,5 +304,6 @@ sections:
         '8': p
         '9': 'n'
         '10': g
+        image: /images/desmond-eagle.jpg
     type: LogoSection
 ---
