@@ -272,7 +272,7 @@ sections:
         textAlign: left
       text:
         textAlign: left
-  - title: lorem-ipsum
+  - title: My Logo section
     logos: []
     type: LogoSection
   - title: lorem-ipsum
