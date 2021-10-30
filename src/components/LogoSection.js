@@ -32,3 +32,4 @@ const LogoSection = (props) => {
 };
 
 
+export default log
