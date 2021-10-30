@@ -273,6 +273,6 @@ sections:
       text:
         textAlign: left
   - title: My Logo section
-    logos: [ nike]
+    logos: [ nike"]
     type: LogoSection
 ---
