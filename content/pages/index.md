@@ -306,4 +306,11 @@ sections:
         '10': g
         image: /images/desmond-eagle.jpg
     type: LogoSection
+  - title: My Logo Section
+    logos:
+      - name: 'Logo #1'
+        image: /images/about.jpg
+      - name: 'Logo #2'
+        image: /images/hero.png
+    type: LogoSection
 ---
