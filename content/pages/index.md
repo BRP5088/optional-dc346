@@ -273,6 +273,6 @@ sections:
       text:
         textAlign: left
   - title: My Logo section
-    logos: [ /images/testimonials-light1.png ]
+    logos: [ /images/contact.png ]
     type: LogoSection
 ---
