@@ -273,29 +273,6 @@ sections:
       text:
         textAlign: left
   - title: My Logo section
-    logos:
-      - name: lorem-ipsum
-      - '0': c
-        '1': o
-        '2': 'n'
-        '3': t
-        '4': a
-        '5': c
-        '6': t
-        '7': .
-        '8': p
-        '9': 'n'
-        '10': g
-      - '0': c
-        '1': o
-        '2': 'n'
-        '3': t
-        '4': a
-        '5': c
-        '6': t
-        '7': .
-        '8': p
-        '9': 'n'
-        '10': g
+    logos: [ contact.png, contact.png ]
     type: LogoSection
 ---
