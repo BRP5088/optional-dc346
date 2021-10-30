@@ -273,6 +273,36 @@ sections:
       text:
         textAlign: left
   - title: My Logo section
-    logos: [ images/contact.png, contact.png ]
+    logos:
+      - '0': i
+        '1': m
+        '2': a
+        '3': g
+        '4': e
+        '5': s
+        '6': /
+        '7': c
+        '8': o
+        '9': 'n'
+        '10': t
+        '11': a
+        '12': c
+        '13': t
+        '14': .
+        '15': p
+        '16': 'n'
+        '17': g
+        image: /images/hero.png
+      - '0': c
+        '1': o
+        '2': 'n'
+        '3': t
+        '4': a
+        '5': c
+        '6': t
+        '7': .
+        '8': p
+        '9': 'n'
+        '10': g
     type: LogoSection
 ---
