@@ -32,4 +32,4 @@ const LogoSection = (props) => {
 };
 
 
-export default log
+export default LogoSection;
