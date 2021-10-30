@@ -31,5 +31,4 @@ const LogoSection = (props) => {
     );
 };
 
-
 export default LogoSection;
